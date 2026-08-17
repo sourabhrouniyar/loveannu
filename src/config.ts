@@ -49,6 +49,6 @@ I will always choose you. ❤️`,
   finalMessage: "Thank you for being a beautiful part of my life.",
   
   // Optional background music URL (must be a valid direct audio link)
-  musicUrl: "/src/pic/songs.mp3",
+  musicUrl: "/pic/songs.mp3",
   // The iconic instrumental part starts near the end (around 4:10)
 };
