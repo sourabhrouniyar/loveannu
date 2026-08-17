@@ -32,17 +32,17 @@ I will always choose you. ❤️`,
     {
       title: "Our First Conversation",
       caption: "Where everything started. ❤️",
-      image: "src/pic/1st.jpg", // Real couple holding hands
+      image: "/pic/1st.jpg", // Real couple holding hands
     },
     {
       title: "That Special Day",
       caption: "A memory I will always keep close to my heart.",
-      image: "src/pic/3rd.jpg", // Real romantic couple
+      image: "/pic/3rd.jpg", // Real romantic couple
     },
     {
       title: "Us",
       caption: "Just two people, one beautiful story.",
-      image: "src/pic/2nd.jpeg", // Aesthetic romantic couple
+      image: "/pic/2nd.jpeg", // Aesthetic romantic couple
     }
   ],
 
